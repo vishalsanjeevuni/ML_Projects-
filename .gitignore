@@ -7,6 +7,8 @@ notebooks/cifar_net.pth
 
 # Python virtual environment
 venv/
+# .venv/
+.venv/
 
 # Compiled Python files
 *.pyc
